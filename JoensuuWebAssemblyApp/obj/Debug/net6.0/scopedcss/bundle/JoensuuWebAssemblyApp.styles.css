@@ -113,9 +113,6 @@ p[b-x31w5qdolx] {
 .visualizer[b-wnhs8ml5fo] {
     max-width: 200px;
     max-height: 200px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 30px;
 }
 
 .uploadzone[b-wnhs8ml5fo] {
@@ -128,6 +125,18 @@ p[b-x31w5qdolx] {
     margin-left: auto;
     margin-right: auto;
     width: fit-content;
+}
+
+.containerken[b-wnhs8ml5fo] {
+    width: 230px;
+    height: 230px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    border-radius: 30px;
+    border: solid 3px white;
 }
 /* /Components/TicketSubmission/SeveritySelection.razor.rz.scp.css */
 .severity[b-0crzc76nbw] {
@@ -226,10 +235,7 @@ body[b-4kvaf3qjoy] {
     justify-content: center;
     row-gap: 10px;
     width: 100px;
-    position: fixed;
-    bottom: 10px;
-    left: 50%;
-    transform: translateX(-50%);
+    margin: 20px auto;
 }
 
 .nextbtn[b-d4jbxq6yxn] {

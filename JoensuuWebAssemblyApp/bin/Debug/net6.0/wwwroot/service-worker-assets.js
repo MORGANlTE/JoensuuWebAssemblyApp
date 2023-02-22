@@ -113,7 +113,7 @@
       "url": "sample-data\/weather.json"
     },
     {
-      "hash": "sha256-BtyztBXz\/mQNFAxnxfnf7Q826C125Qd2EoL3yS6lbkQ=",
+      "hash": "sha256-tZeCtg1HXKRw7+3fmo++dOeHLFnEtH3OOAaT4XkdI7k=",
       "url": "JoensuuWebAssemblyApp.styles.css"
     },
     {
@@ -929,5 +929,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "5J208q\/0"
+  "version": "1Vd+F1KK"
 };

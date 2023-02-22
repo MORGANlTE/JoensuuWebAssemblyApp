@@ -48,11 +48,31 @@ public class PredictionController : ControllerBase
 				await img.CopyToAsync(stream);
 			}
 
+			// Read the image data from the uploaded file
+
+			byte[] imageData;
+			using (var memoryStream = new MemoryStream())
+			{
+				await img.CopyToAsync(memoryStream);
+				imageData = memoryStream.ToArray();
+			}
+
+			// Create the ML model input
+			var input = new MLModel1.ModelInput()
+			{
+				ImageSource = imageData
+			};
+
+			// Get the prediction result
+			var predictionResult = _predictionEnginePool.Predict(input);
+
 			// Return a response indicating that the file was successfully saved
 			return Ok(new
 			{
 				fileName = uniqueFileName,
-				fileSize = img.Length
+				fileSize = img.Length,
+				score = predictionResult.Score,
+				label = predictionResult.PredictedLabel
 			});
 		}
 		else
