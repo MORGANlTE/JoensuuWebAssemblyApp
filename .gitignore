@@ -1,1 +1,62 @@
 AI Lib/
+WebAPIForAI/MLModel1*
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+bin/
+obj/
+
+# Visual Studio files
+*.user
+*.suo
+*.sln.docstates
+*.vs/
+*.vsp
+
+# NuGet packages
+*.nupkg
+packages/
+project.lock.json
+npm-debug.log*
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+Generated_Code/
+
+# Xamarin-specific
+bin/
+obj/
+*.userprefs
+*.apk
+*.ap_
+
+# Unity3D
+Temp/
+UnityGenerated/
+Library/
+obj/
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.userprefs
+*.user
+
+# Rider
+.idea/
+*.sln.iml
+
+# Resharper
+_ReSharper*/
+*.resharper
+*.DotSettings.user
+
+# GhostDoc
+Documentation/

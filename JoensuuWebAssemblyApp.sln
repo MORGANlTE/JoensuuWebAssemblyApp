@@ -5,6 +5,10 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JoensuuWebAssemblyApp", "JoensuuWebAssemblyApp\JoensuuWebAssemblyApp.csproj", "{326C4742-28C1-400B-92E4-F23480261E4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI Lib", "AI Lib\AI Lib.csproj", "{C1283025-3D5A-43AC-8ACC-ABE3C55BECC9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPIForAI", "WebAPIForAI\WebAPIForAI.csproj", "{915446FA-1849-40D1-8E04-9327A6C2C9B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{326C4742-28C1-400B-92E4-F23480261E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{326C4742-28C1-400B-92E4-F23480261E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{326C4742-28C1-400B-92E4-F23480261E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1283025-3D5A-43AC-8ACC-ABE3C55BECC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1283025-3D5A-43AC-8ACC-ABE3C55BECC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1283025-3D5A-43AC-8ACC-ABE3C55BECC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1283025-3D5A-43AC-8ACC-ABE3C55BECC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{915446FA-1849-40D1-8E04-9327A6C2C9B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{915446FA-1849-40D1-8E04-9327A6C2C9B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{915446FA-1849-40D1-8E04-9327A6C2C9B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{915446FA-1849-40D1-8E04-9327A6C2C9B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
