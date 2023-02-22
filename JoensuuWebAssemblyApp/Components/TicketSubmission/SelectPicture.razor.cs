@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Forms;
 
 namespace JoensuuWebAssemblyApp.Components.TicketSubmission;
@@ -12,7 +13,8 @@ public partial class SelectPicture
 		try
 		{
 			var files = e.GetMultipleFiles();
-			if (files.Count <= 1)
+			if (files.Count == 1)
+			{
 				foreach (var file in files)
 				{
 					await using MemoryStream fs = new MemoryStream();
@@ -22,6 +24,8 @@ public partial class SelectPicture
 					ImgBS64 = $"data:{file.ContentType};base64,{bs64}";
 					Console.WriteLine("Imatge 64: " + ImgBS64 + Environment.NewLine);
 				}
+			}	
+				
 		}
 
 		catch (Exception r)

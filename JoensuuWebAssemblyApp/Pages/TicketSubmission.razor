@@ -10,7 +10,15 @@
 <div class="uploadzone">
     @if(step == 1)
     {
-        <SelectPicture />
+        <SelectPicture/>
+        <br/>
+                <SeveritySelection ExternalMethod="ChangeSelected"/>
+            <br/>
+
+            <br/>
+            <button class="nextbtn" @onclick="() => ChangeStep(2)">NEXT</button>
+    } else if(step == 2){
+
     }
 
     <div class="stepHolder">
@@ -22,4 +30,5 @@
             <MudIcon Icon="@Icons.Material.Filled.RadioButtonUnchecked" Title="Step" />
         }
     </div>
+
 </div>

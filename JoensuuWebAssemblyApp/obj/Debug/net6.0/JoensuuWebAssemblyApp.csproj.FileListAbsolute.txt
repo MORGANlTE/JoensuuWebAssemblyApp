@@ -828,3 +828,4 @@ C:\Users\Laure\Documents\School\C#\repos\JoensuuWebAssemblyApp\JoensuuWebAssembl
 C:\Users\Laure\Documents\School\C#\repos\JoensuuWebAssemblyApp\JoensuuWebAssemblyApp\obj\Debug\net6.0\build-gz\mqWB9uNQ.gz
 C:\Users\Laure\Documents\School\C#\repos\JoensuuWebAssemblyApp\JoensuuWebAssemblyApp\obj\Debug\net6.0\build-gz\869b25u8.gz
 C:\Users\Laure\Documents\School\C#\repos\JoensuuWebAssemblyApp\JoensuuWebAssemblyApp\obj\Debug\net6.0\scopedcss\Components\TicketSubmission\SelectPicture.razor.rz.scp.css
+C:\Users\Laure\Documents\School\C#\repos\JoensuuWebAssemblyApp\JoensuuWebAssemblyApp\obj\Debug\net6.0\scopedcss\Components\TicketSubmission\SeveritySelection.razor.rz.scp.css

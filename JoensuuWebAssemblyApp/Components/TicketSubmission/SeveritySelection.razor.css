@@ -1,0 +1,49 @@
+﻿.severity {
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 50px;
+    padding: 4px;
+}
+
+.circle {
+    margin-left: 8px;
+    margin-right: 8px;
+    border: transparent 3px solid;
+    border-radius: 100%;
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    box-shadow: inset 0 0 10px 2px rgb(255, 255, 255, 0.3);
+    cursor: pointer;
+}
+
+.default{
+    background: orange;
+}
+
+.severe {
+    background: red;
+}
+
+.dangerous {
+    background: darkred;
+}
+
+.circle p {
+    background: rgba(0, 0, 0, 0.1);
+    padding: 1px;
+    border-radius: 100%;
+    box-shadow: inset 0 0 10px 2px rgb(0, 0, 0, 0.5);
+}
+
+.circle:hover p {
+    padding: 1px;
+    border-radius: 100%;
+    box-shadow: inset 0 0 10px 2px rgb(0, 0, 0, 0.3);
+}
+
+.sel {
+    border: 3px white solid;
+}

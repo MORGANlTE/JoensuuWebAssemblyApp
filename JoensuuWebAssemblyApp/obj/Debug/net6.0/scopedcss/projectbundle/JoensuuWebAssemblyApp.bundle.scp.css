@@ -129,6 +129,56 @@ p[b-x31w5qdolx] {
     margin-right: auto;
     width: fit-content;
 }
+/* /Components/TicketSubmission/SeveritySelection.razor.rz.scp.css */
+.severity[b-0crzc76nbw] {
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 50px;
+    padding: 4px;
+}
+
+.circle[b-0crzc76nbw] {
+    margin-left: 8px;
+    margin-right: 8px;
+    border: transparent 3px solid;
+    border-radius: 100%;
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    box-shadow: inset 0 0 10px 2px rgb(255, 255, 255, 0.3);
+    cursor: pointer;
+}
+
+.default[b-0crzc76nbw]{
+    background: orange;
+}
+
+.severe[b-0crzc76nbw] {
+    background: red;
+}
+
+.dangerous[b-0crzc76nbw] {
+    background: darkred;
+}
+
+.circle p[b-0crzc76nbw] {
+    background: rgba(0, 0, 0, 0.1);
+    padding: 1px;
+    border-radius: 100%;
+    box-shadow: inset 0 0 10px 2px rgb(0, 0, 0, 0.5);
+}
+
+.circle:hover p[b-0crzc76nbw] {
+    padding: 1px;
+    border-radius: 100%;
+    box-shadow: inset 0 0 10px 2px rgb(0, 0, 0, 0.3);
+}
+
+.sel[b-0crzc76nbw] {
+    border: 3px white solid;
+}
 /* /Pages/Index.razor.rz.scp.css */
 
 body[b-4kvaf3qjoy] {
@@ -180,6 +230,17 @@ body[b-4kvaf3qjoy] {
     bottom: 10px;
     left: 50%;
     transform: translateX(-50%);
+}
+
+.nextbtn[b-d4jbxq6yxn] {
+    border-radius: 15px;
+    background: rgb(128, 128, 128);
+    font-family: "Work sans", sans-serif;
+    padding: 10px 50px;
+    font-size: 20px;
+    color: white;
+    margin: 0 auto;
+    border: none;
 }
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-d0g4a7qoim] {
