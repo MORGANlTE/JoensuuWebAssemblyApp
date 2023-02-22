@@ -93,6 +93,10 @@
       "url": "img\/logos\/ticket.png"
     },
     {
+      "hash": "sha256-vRbWpd4uBeQ5+SzaEvV+M+Pa3ClKCoxUI3Cgsu3uiqo=",
+      "url": "img\/noimg.png"
+    },
+    {
       "hash": "sha256-DS8Vs\/dtJaFxjr9ZLMi70g6+EB1x9rVhZ1OGAhLZd8c=",
       "url": "index.html"
     },
@@ -105,7 +109,7 @@
       "url": "sample-data\/weather.json"
     },
     {
-      "hash": "sha256-letcSn\/0BQ6WbCKMQbeBifx+FqLoQ+2Ww0nHBIXl1nM=",
+      "hash": "sha256-QbB731iCRJn9SQtOzvlqMXrzOQW1xJxKweO51OTnKWw=",
       "url": "JoensuuWebAssemblyApp.styles.css"
     },
     {
@@ -893,11 +897,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-jGuSgDhGBcxmqxaBuuSYE+wbr9w5zJ9xQ6euft7FUiE=",
+      "hash": "sha256-G9a4q5n\/Ezs\/wzwWpvCS87C82wm3vbmBXePF\/r+VVIQ=",
       "url": "_framework\/JoensuuWebAssemblyApp.dll"
     },
     {
-      "hash": "sha256-yYgVfzNEERmiBfMmEGu7QKfyTmnjTt4zeg1xcBUYDS4=",
+      "hash": "sha256-S0E7eMiWN9Cj3gqAUM+XIawE\/NpCDGN9CtgXVDFnMs8=",
       "url": "_framework\/JoensuuWebAssemblyApp.pdb"
     },
     {
@@ -905,9 +909,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-HFMurpc5Jm0B4s\/A78Uw\/AMyGCkw80tGERC6VFivNz4=",
+      "hash": "sha256-NAvUBjKPxXXZxEHQA4y1HnIOZb7pn1ylP6+JiamM1yI=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "5IXktTNG"
+  "version": "5jN26cQm"
 };

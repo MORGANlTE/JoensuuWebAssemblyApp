@@ -2,6 +2,11 @@
 @using JoensuuWebAssemblyApp.Components.Index
 
 <PageTitle>Ticket</PageTitle>
-<input type="file"
-    @*@onchange="HandleSelected"*@
+<img src=@ImgBS64 alt="visualizer" class="visualizer"/>
+<br/>
+<br/>
+<InputFile type="image"
+    OnChange="(e) => HandleSelected(e)"
     accept=".png, .jpg, .jpeg, .svg" capture />
+
+    

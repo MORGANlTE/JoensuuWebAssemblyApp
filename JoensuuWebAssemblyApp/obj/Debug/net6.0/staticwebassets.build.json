@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5AVoB3cLn8UGiZ0nPjHiWLcx1YaMxWG7XviQaFA/kmc=",
+  "Hash": "/8AObOGN+RAX4W/6Wzz3fgIsWnD7ohYhSeZ2eGJ6mtk=",
   "Source": "JoensuuWebAssemblyApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -7291,6 +7291,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\logos\\ticket.png"
+    },
+    {
+      "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\wwwroot\\img\\noimg.png",
+      "SourceId": "JoensuuWebAssemblyApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "img/noimg.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\noimg.png"
     },
     {
       "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\wwwroot\\index.html",

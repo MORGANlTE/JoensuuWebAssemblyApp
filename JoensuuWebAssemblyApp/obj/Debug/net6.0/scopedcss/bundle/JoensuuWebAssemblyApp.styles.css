@@ -114,6 +114,11 @@ p[b-x31w5qdolx] {
 body[b-4kvaf3qjoy] {
     font-family: "Work sans", sans-serif;
 }
+/* /Pages/Ticket.razor.rz.scp.css */
+.visualizer[b-bevls6lafo]{
+    height: 100px;
+    max-width:500px;
+}
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-d0g4a7qoim] {
     position: relative;
