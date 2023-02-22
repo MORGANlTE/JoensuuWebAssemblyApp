@@ -1,0 +1,25 @@
+﻿@page "/ticket/new"
+@using JoensuuWebAssemblyApp.Components.Index
+@using JoensuuWebAssemblyApp.Components.TicketSubmission
+@using MudBlazor
+
+<PageTitle>Ticket</PageTitle>
+<div class="sidebar">
+    <NavMenu />
+</div>
+<div class="uploadzone">
+    @if(step == 1)
+    {
+        <SelectPicture />
+    }
+
+    <div class="stepHolder">
+        @for (int i = 0; step - i > 0; i++)
+        {
+                <MudIcon Icon="@Icons.Material.Filled.RadioButtonChecked" Title="Step" />
+        }
+        @for(int i = 0; i < maxSteps - step; i++){
+            <MudIcon Icon="@Icons.Material.Filled.RadioButtonUnchecked" Title="Step" />
+        }
+    </div>
+</div>

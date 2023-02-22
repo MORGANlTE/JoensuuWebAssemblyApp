@@ -2,11 +2,12 @@
 @using JoensuuWebAssemblyApp.Components.Index
 
 <PageTitle>Ticket</PageTitle>
-<img src=@ImgBS64 alt="visualizer" class="visualizer"/>
-<br/>
-<br/>
-<InputFile type="image"
-    OnChange="(e) => HandleSelected(e)"
-    accept=".png, .jpg, .jpeg, .svg" capture />
-
-    
+<div class="sidebar">
+    <NavMenu />
+</div>
+<div>
+    <NavLink href="/ticket/new">
+        <button class="addbtn">+</button>
+    </NavLink>
+</div>
+<Undermenu />

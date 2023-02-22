@@ -1,0 +1,21 @@
+﻿.menubar {
+    background: #0074be;
+    position: fixed;
+    bottom: 0;
+    height: 60px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.menuelement {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    margin-top: 10px;
+    padding-bottom: 5px;
+}
+.metxt{
+    margin-bottom: 0;
+}

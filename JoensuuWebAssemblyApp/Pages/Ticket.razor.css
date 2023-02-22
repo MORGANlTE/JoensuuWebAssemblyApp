@@ -1,4 +1,14 @@
-﻿.visualizer{
-    height: 100px;
-    max-width:500px;
+﻿.addbtn {
+    background: rgb(0, 148, 255);
+    position: fixed;
+    z-index: 20;
+    right: 20px;
+    bottom: 70px;
+    width: 60px;
+    font-size: 40px;
+    font-family: "Work sans", sans-serif;
+    height: 60px;
+    border: none;
+    border-radius: 100%;
+    box-shadow: 0 0 5px 2px rgb(255, 255, 255, 0.2);
 }

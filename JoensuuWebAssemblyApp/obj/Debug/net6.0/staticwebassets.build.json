@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/8AObOGN+RAX4W/6Wzz3fgIsWnD7ohYhSeZ2eGJ6mtk=",
+  "Hash": "CnkNjG/g58TBeu72hN48Ge7oagFSeO2qIKEfUxmlXT0=",
   "Source": "JoensuuWebAssemblyApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -16,6 +16,40 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\Laure\\.nuget\\packages\\mudblazor\\6.1.9\\staticwebassets\\MudBlazor.min.css",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Laure\\.nuget\\packages\\mudblazor\\6.1.9\\staticwebassets\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Laure\\.nuget\\packages\\mudblazor\\6.1.9\\staticwebassets\\MudBlazor.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Laure\\.nuget\\packages\\mudblazor\\6.1.9\\staticwebassets\\MudBlazor.min.js",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Laure\\.nuget\\packages\\mudblazor\\6.1.9\\staticwebassets\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Laure\\.nuget\\packages\\mudblazor\\6.1.9\\staticwebassets\\MudBlazor.min.js"
+    },
     {
       "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.boot.json",
       "SourceId": "JoensuuWebAssemblyApp",
@@ -218,7 +252,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Laure\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.10\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
+      "OriginalItemSpec": "C:\\Users\\Laure\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.11\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
@@ -235,7 +269,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Laure\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.10\\lib\\net6.0\\Microsoft.AspNetCore.Components.dll"
+      "OriginalItemSpec": "C:\\Users\\Laure\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.11\\lib\\net6.0\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
@@ -252,7 +286,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Laure\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.10\\lib\\net6.0\\Microsoft.AspNetCore.Components.Forms.dll"
+      "OriginalItemSpec": "C:\\Users\\Laure\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.11\\lib\\net6.0\\Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
       "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
@@ -269,7 +303,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Laure\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.10\\lib\\net6.0\\Microsoft.AspNetCore.Components.Web.dll"
+      "OriginalItemSpec": "C:\\Users\\Laure\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.11\\lib\\net6.0\\Microsoft.AspNetCore.Components.Web.dll"
     },
     {
       "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll",
@@ -303,7 +337,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Laure\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.10\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
+      "OriginalItemSpec": "C:\\Users\\Laure\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.11\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.CSharp.dll",
@@ -507,7 +541,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Laure\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.2\\lib\\net6.0\\Microsoft.Extensions.Logging.Abstractions.dll"
+      "OriginalItemSpec": "C:\\Users\\Laure\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.3\\lib\\net6.0\\Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.dll",
@@ -575,7 +609,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Laure\\.nuget\\packages\\microsoft.jsinterop\\6.0.10\\lib\\net6.0\\Microsoft.JSInterop.dll"
+      "OriginalItemSpec": "C:\\Users\\Laure\\.nuget\\packages\\microsoft.jsinterop\\6.0.11\\lib\\net6.0\\Microsoft.JSInterop.dll"
     },
     {
       "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll",
@@ -678,6 +712,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Laure\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.10\\runtimes\\browser-wasm\\lib\\net6.0\\mscorlib.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\MudBlazor.dll",
+      "SourceId": "JoensuuWebAssemblyApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/MudBlazor.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Laure\\.nuget\\packages\\mudblazor\\6.1.9\\lib\\net6.0\\MudBlazor.dll"
     },
     {
       "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\netstandard.dll",
@@ -3655,23 +3706,6 @@
       "OriginalItemSpec": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.Encoding.dll"
     },
     {
-      "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\obj\\Debug\\net6.0\\build-gz\\2Cuzbr6H.gz",
-      "SourceId": "JoensuuWebAssemblyApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll"
-    },
-    {
       "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\obj\\Debug\\net6.0\\build-gz\\2HNWO5l8.gz",
       "SourceId": "JoensuuWebAssemblyApp",
       "SourceType": "Computed",
@@ -3961,21 +3995,21 @@
       "OriginalItemSpec": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.NameResolution.dll"
     },
     {
-      "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\obj\\Debug\\net6.0\\build-gz\\6q4ridd2.gz",
+      "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\obj\\Debug\\net6.0\\build-gz\\6qy+LkZ5.gz",
       "SourceId": "JoensuuWebAssemblyApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
+      "RelatedAsset": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll"
+      "OriginalItemSpec": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\obj\\Debug\\net6.0\\build-gz\\6yOqAjhk.gz",
@@ -4010,6 +4044,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.NetworkInformation.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\obj\\Debug\\net6.0\\build-gz\\869b25u8.gz",
+      "SourceId": "JoensuuWebAssemblyApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/MudBlazor.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\MudBlazor.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\MudBlazor.dll"
     },
     {
       "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\obj\\Debug\\net6.0\\build-gz\\8f+Mqo5K.gz",
@@ -4146,6 +4197,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\obj\\Debug\\net6.0\\build-gz\\b35Haf1Q.gz",
+      "SourceId": "JoensuuWebAssemblyApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
       "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\obj\\Debug\\net6.0\\build-gz\\B3QmcYR6.gz",
@@ -4454,23 +4522,6 @@
       "OriginalItemSpec": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.FileSystem.DriveInfo.dll"
     },
     {
-      "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\obj\\Debug\\net6.0\\build-gz\\D4kJWTfX.gz",
-      "SourceId": "JoensuuWebAssemblyApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
-    },
-    {
       "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\obj\\Debug\\net6.0\\build-gz\\D6fBuAZ3.gz",
       "SourceId": "JoensuuWebAssemblyApp",
       "SourceType": "Computed",
@@ -4556,23 +4607,6 @@
       "OriginalItemSpec": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Primitives.dll"
     },
     {
-      "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\obj\\Debug\\net6.0\\build-gz\\DU+1778V.gz",
-      "SourceId": "JoensuuWebAssemblyApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
-    },
-    {
       "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\obj\\Debug\\net6.0\\build-gz\\DUHW0eSS.gz",
       "SourceId": "JoensuuWebAssemblyApp",
       "SourceType": "Computed",
@@ -4639,6 +4673,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.DispatchProxy.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\obj\\Debug\\net6.0\\build-gz\\EUFp64nH.gz",
+      "SourceId": "JoensuuWebAssemblyApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\obj\\Debug\\net6.0\\build-gz\\eWtpRzB7.gz",
@@ -4758,6 +4809,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.TypeExtensions.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\obj\\Debug\\net6.0\\build-gz\\HJwXBhtc.gz",
+      "SourceId": "JoensuuWebAssemblyApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll"
     },
     {
       "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\obj\\Debug\\net6.0\\build-gz\\hsU5cr1j.gz",
@@ -5372,6 +5440,23 @@
       "OriginalItemSpec": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ServiceProcess.dll"
     },
     {
+      "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\obj\\Debug\\net6.0\\build-gz\\mqWB9uNQ.gz",
+      "SourceId": "JoensuuWebAssemblyApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll"
+    },
+    {
       "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\obj\\Debug\\net6.0\\build-gz\\MT1waeFq.gz",
       "SourceId": "JoensuuWebAssemblyApp",
       "SourceType": "Computed",
@@ -5506,6 +5591,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.InteropServices.RuntimeInformation.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\obj\\Debug\\net6.0\\build-gz\\NHVAyIoG.gz",
+      "SourceId": "JoensuuWebAssemblyApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\obj\\Debug\\net6.0\\build-gz\\ntNy3871.gz",
@@ -5965,6 +6067,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Collections.Concurrent.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\obj\\Debug\\net6.0\\build-gz\\sRlfCsfU.gz",
+      "SourceId": "JoensuuWebAssemblyApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\obj\\Debug\\net6.0\\build-gz\\T+YTu0zq.gz",
@@ -6630,23 +6749,6 @@
       "OriginalItemSpec": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Json.dll"
     },
     {
-      "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\obj\\Debug\\net6.0\\build-gz\\zCP4faGG.gz",
-      "SourceId": "JoensuuWebAssemblyApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
-    },
-    {
       "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\obj\\Debug\\net6.0\\build-gz\\zEmkeGwI.gz",
       "SourceId": "JoensuuWebAssemblyApp",
       "SourceType": "Computed",
@@ -6679,23 +6781,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.SecureString.dll"
-    },
-    {
-      "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\obj\\Debug\\net6.0\\build-gz\\Zjf9lMFM.gz",
-      "SourceId": "JoensuuWebAssemblyApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
       "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\obj\\Debug\\net6.0\\build-gz\\zoah2UlR.gz",
@@ -6747,23 +6832,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.Emit.dll"
-    },
-    {
-      "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\obj\\Debug\\net6.0\\build-gz\\ZXfwLv33.gz",
-      "SourceId": "JoensuuWebAssemblyApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll"
     },
     {
       "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\obj\\Debug\\net6.0\\build-gz\\ZXsPbadI.gz",
@@ -7155,6 +7223,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\icon-512.png"
+    },
+    {
+      "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\wwwroot\\img\\back.png",
+      "SourceId": "JoensuuWebAssemblyApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "img/back.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\back.png"
     },
     {
       "Identity": "C:\\Users\\Laure\\Documents\\School\\C#\\repos\\JoensuuWebAssemblyApp\\JoensuuWebAssemblyApp\\wwwroot\\img\\bell.png",

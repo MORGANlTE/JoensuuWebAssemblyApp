@@ -56,7 +56,7 @@
 }
 
 @media (min-width: 641px) {
-    .navbar-toggler, .notificationeke {
+    .navbar-toggler, .notificationeke, .backerke {
         display: none;
     }
 
@@ -83,6 +83,23 @@
     background: red !important;
 }
 
-.notificationeke{
+.notificationeke, .backerke{
     width: 20px;
+}
+
+.backerke{
+    position: absolute;
+    top:20px;
+}
+
+.faker{
+    padding: 10px;
+}
+
+.coins {
+    font-family: "Work sans", sans-serif;
+    border-radius: 5px;
+    color: white;
+    border: solid white;
+    background: rgba(255,255,255,0.3);
 }

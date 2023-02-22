@@ -1,0 +1,21 @@
+.menubar[b-cxg4w747jp] {
+    background: #0074be;
+    position: fixed;
+    bottom: 0;
+    height: 60px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.menuelement[b-cxg4w747jp] {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    margin-top: 10px;
+    padding-bottom: 5px;
+}
+.metxt[b-cxg4w747jp]{
+    margin-bottom: 0;
+}

@@ -56,7 +56,7 @@
 }
 
 @media (min-width: 641px) {
-    .navbar-toggler[b-ugb89qb3k4], .notificationeke[b-ugb89qb3k4] {
+    .navbar-toggler[b-ugb89qb3k4], .notificationeke[b-ugb89qb3k4], .backerke[b-ugb89qb3k4] {
         display: none;
     }
 
@@ -83,6 +83,23 @@
     background: red !important;
 }
 
-.notificationeke[b-ugb89qb3k4]{
+.notificationeke[b-ugb89qb3k4], .backerke[b-ugb89qb3k4]{
     width: 20px;
+}
+
+.backerke[b-ugb89qb3k4]{
+    position: absolute;
+    top:20px;
+}
+
+.faker[b-ugb89qb3k4]{
+    padding: 10px;
+}
+
+.coins[b-ugb89qb3k4] {
+    font-family: "Work sans", sans-serif;
+    border-radius: 5px;
+    color: white;
+    border: solid white;
+    background: rgba(255,255,255,0.3);
 }

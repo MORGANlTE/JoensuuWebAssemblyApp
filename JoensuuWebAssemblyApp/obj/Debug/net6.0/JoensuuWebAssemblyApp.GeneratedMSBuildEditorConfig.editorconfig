@@ -46,6 +46,10 @@ build_metadata.AdditionalFiles.CssScope = b-djdmyya0j7
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xJbmRleFxXZWVya2FkZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-x31w5qdolx
 
+[C:/Users/Laure/Documents/School/C\#/repos/JoensuuWebAssemblyApp/JoensuuWebAssemblyApp/Components/TicketSubmission/SelectPicture.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUaWNrZXRTdWJtaXNzaW9uXFNlbGVjdFBpY3R1cmUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-wnhs8ml5fo
+
 [C:/Users/Laure/Documents/School/C\#/repos/JoensuuWebAssemblyApp/JoensuuWebAssemblyApp/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-4kvaf3qjoy
@@ -54,6 +58,10 @@ build_metadata.AdditionalFiles.CssScope = b-4kvaf3qjoy
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGlja2V0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-bevls6lafo
 
+[C:/Users/Laure/Documents/School/C\#/repos/JoensuuWebAssemblyApp/JoensuuWebAssemblyApp/Pages/TicketSubmission.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGlja2V0U3VibWlzc2lvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-d4jbxq6yxn
+
 [C:/Users/Laure/Documents/School/C\#/repos/JoensuuWebAssemblyApp/JoensuuWebAssemblyApp/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-d0g4a7qoim
@@ -61,3 +69,7 @@ build_metadata.AdditionalFiles.CssScope = b-d0g4a7qoim
 [C:/Users/Laure/Documents/School/C\#/repos/JoensuuWebAssemblyApp/JoensuuWebAssemblyApp/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ugb89qb3k4
+
+[C:/Users/Laure/Documents/School/C\#/repos/JoensuuWebAssemblyApp/JoensuuWebAssemblyApp/Shared/Undermenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFVuZGVybWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-cxg4w747jp

@@ -1,0 +1,19 @@
+.visualizer[b-wnhs8ml5fo] {
+    max-width: 200px;
+    max-height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+.uploadzone[b-wnhs8ml5fo] {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.uploader[b-wnhs8ml5fo] {
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+}

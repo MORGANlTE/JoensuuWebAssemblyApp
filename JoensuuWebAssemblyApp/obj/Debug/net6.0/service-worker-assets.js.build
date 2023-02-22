@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-VV6NoCJXjFAFIlmMLIiTHkYnXDRI5gwUWBYiwz5716A=",
+      "hash": "sha256-VD6dUxuU4u01lijypN2w67L9Tgok4sJY1ikoihWHR1M=",
       "url": "css\/app.css"
     },
     {
@@ -61,6 +61,10 @@
       "url": "icon-512.png"
     },
     {
+      "hash": "sha256-Rhb3wQobdo406tHtKG9MpJ2mwhMJLGk2H2\/h7C5jWBE=",
+      "url": "img\/back.png"
+    },
+    {
       "hash": "sha256-9w5fGbrghN8MKEs+8hcdgntheWB5q3Y7dg8E0YI4Xpk=",
       "url": "img\/bell.png"
     },
@@ -109,23 +113,23 @@
       "url": "sample-data\/weather.json"
     },
     {
-      "hash": "sha256-QbB731iCRJn9SQtOzvlqMXrzOQW1xJxKweO51OTnKWw=",
+      "hash": "sha256-z3pwrb8nbdJ0AjPM91X1M\/HQO5Oh\/Tfu9619euGM3vk=",
       "url": "JoensuuWebAssemblyApp.styles.css"
     },
     {
-      "hash": "sha256-gbA+AujHUUBawZgIGQVo3vLdHlkaD7QLRM0dStUecSM=",
+      "hash": "sha256-XBf6Fkkj3RbYzEYJK50myG8AEUvn0E0yo79DWqFFF6s=",
       "url": "_framework\/Microsoft.AspNetCore.Authorization.dll"
     },
     {
-      "hash": "sha256-+gNaJML9x0hS\/cLcBimAURDK\/S8nSWJZkTCaP5lgRys=",
+      "hash": "sha256-UkZxt\/OLN+4go5yeFeBuXEx05BEm9nw5pNpR7smgtq4=",
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
-      "hash": "sha256-uEDGfx46VmVIFGVu1clYPrq64JTRcayMUjUw1cr6Zck=",
+      "hash": "sha256-Tb2pZ0EzhqIJ5HZiejbBy3MBrA+zY+77w58Gae1c0pQ=",
       "url": "_framework\/Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
-      "hash": "sha256-w22hRC5++AfKK8AS70s3daNJlRW\/viXntxDuPRM\/+AY=",
+      "hash": "sha256-SuNk6pu0VYvOrLD8o4+xeB+eHRkkv0mHCl4LKVRg8u8=",
       "url": "_framework\/Microsoft.AspNetCore.Components.Web.dll"
     },
     {
@@ -133,7 +137,7 @@
       "url": "_framework\/Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
-      "hash": "sha256-\/8AsKpzt2ePKd\/B1\/dolnQ2PeDqEV+rYUcJOnL4\/PXE=",
+      "hash": "sha256-3TE7F3H4g8o6S+SpkGTHlSmBCMvOi8GcBNHZIGLPg8s=",
       "url": "_framework\/Microsoft.AspNetCore.Metadata.dll"
     },
     {
@@ -181,7 +185,7 @@
       "url": "_framework\/Microsoft.Extensions.Logging.dll"
     },
     {
-      "hash": "sha256-ecZkn3RPZPEwxamP17ECOmKEAvX+KJUgvdYQFderb0U=",
+      "hash": "sha256-TeK78LW1mefI\/Ao7uFcK6TBhgjx9HUMSm3nqBsUC6pI=",
       "url": "_framework\/Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
@@ -193,12 +197,16 @@
       "url": "_framework\/Microsoft.Extensions.Primitives.dll"
     },
     {
-      "hash": "sha256-Q4f+LWDtWpXnnYHUde+5rI1mzDPNsZKlAw2vLmj7x1I=",
+      "hash": "sha256-8rJkvKxV\/xke9flVSby3wXsdofRAr9AzsMeVjUmVAMo=",
       "url": "_framework\/Microsoft.JSInterop.dll"
     },
     {
       "hash": "sha256-o6JgCcWyug2MjyXwx54FHRaCf1DjpJzEkG2GKhlSyL4=",
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
+    },
+    {
+      "hash": "sha256-mOQ5pcNxaLFZ\/J7dRBM6X8ziAcVTtI93V2dk9NtBnHk=",
+      "url": "_framework\/MudBlazor.dll"
     },
     {
       "hash": "sha256-6+E55JXedimdw1c1bDtVg4K7XuWjVWVTifH8QpfzXSY=",
@@ -897,11 +905,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-G9a4q5n\/Ezs\/wzwWpvCS87C82wm3vbmBXePF\/r+VVIQ=",
+      "hash": "sha256-xCrx0JGLhwZHUqOTIkoQftMZXL3WFZh9qINPy+F3D2s=",
       "url": "_framework\/JoensuuWebAssemblyApp.dll"
     },
     {
-      "hash": "sha256-S0E7eMiWN9Cj3gqAUM+XIawE\/NpCDGN9CtgXVDFnMs8=",
+      "hash": "sha256-Wt3rRyYjtryu3JeKKq9DkHLzh5e+cKVJ9KEkCdmkaz8=",
       "url": "_framework\/JoensuuWebAssemblyApp.pdb"
     },
     {
@@ -909,9 +917,17 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-NAvUBjKPxXXZxEHQA4y1HnIOZb7pn1ylP6+JiamM1yI=",
+      "hash": "sha256-z8vnbxUegkOjynY0ILcLqrRlA6rRwnwd7KLSQ0tDmr8=",
       "url": "_framework\/blazor.boot.json"
+    },
+    {
+      "hash": "sha256-mZPhzAhzQGkgorrSHbOfDERxgIb7UM885ZEM1kL0m38=",
+      "url": "_content\/MudBlazor\/MudBlazor.min.css"
+    },
+    {
+      "hash": "sha256-h15j8GqyGzvV\/GyYDxEKbER2NqOVSXvHvsp1OOjrgy4=",
+      "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "5jN26cQm"
+  "version": "29tidHZ\/"
 };

@@ -1,12 +1,28 @@
 ﻿<div class="top-row ps-3 navbar navbar-dark">
     <div class="container-fluid">
+        @if(CurrUrl != ""){
+                <NavLink class="" href="@{CurrUrl=="ticket"? "" : "/ticket"}">
+                <img class="backerke" src="./img/back.png" alt="back"/>
+            </NavLink>
+        } else{
+                <div style="width: 20px; height: 10px;" class="backerke faker"/>
+        }
+        
         <a class="navbar-brand joensuu" href="">J●ENSUU</a>
-        <a class="" href="">
-            <img class="notificationeke" src="./img/bell.png" alt="bell"/>
-        </a>
-        <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
-            <span class="navbar-toggler-icon"></span>
-        </button>
+        @if(CurrUrl == ""){
+            <NavLink class="" href="">
+                <img class="notificationeke" src="./img/bell.png" alt="bell"/>
+            </NavLink>
+            <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+        } else{
+            <button class="coins">
+                6🪙
+            </button>
+        }
+
+        
     </div>
 </div>
 @*
@@ -30,13 +46,4 @@
     </nav>
 </div>*@
 
-@code {
-    private bool collapseNavMenu = true;
 
-    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
-
-    private void ToggleNavMenu()
-    {
-        collapseNavMenu = !collapseNavMenu;
-    }
-}
