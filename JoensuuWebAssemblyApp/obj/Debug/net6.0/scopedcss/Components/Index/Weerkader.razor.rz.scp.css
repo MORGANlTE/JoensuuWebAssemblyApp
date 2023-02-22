@@ -1,0 +1,53 @@
+
+
+.temperature[b-x31w5qdolx] {
+    width: 90%;
+    border: 3px white solid;
+    border-radius: 5px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    align-content: center;
+    overflow: hidden;
+}
+
+.center-data[b-x31w5qdolx] {
+    width: 33.33%;
+    text-align: center;
+}
+
+.blue[b-x31w5qdolx] {
+    background: #014888;
+    color: white;
+}
+
+.white[b-x31w5qdolx] {
+    background: white;
+    color: #014888;
+}
+
+p[b-x31w5qdolx] {
+    margin: 5px 0;
+    margin-top: 10px;
+}
+
+.first[b-x31w5qdolx] {
+    font-size: 40px;
+}
+
+.darkblue[b-x31w5qdolx] {
+    background: #015aaa;
+    padding: 20px 0 10px 0;
+}
+
+.rechterken[b-x31w5qdolx] {
+    font-family: "Work sans", sans-serif;
+    font-weight: bold;
+    font-size: 13px;
+    margin-top: 14px;
+}
+
+.quality[b-x31w5qdolx] {
+    font-size: 18px;
+}

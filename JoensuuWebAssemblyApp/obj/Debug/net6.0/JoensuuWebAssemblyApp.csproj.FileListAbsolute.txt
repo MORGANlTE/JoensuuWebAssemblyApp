@@ -817,3 +817,6 @@ C:\Users\Laure\Documents\School\C#\repos\JoensuuWebAssemblyApp\JoensuuWebAssembl
 C:\Users\Laure\Documents\School\C#\repos\JoensuuWebAssemblyApp\JoensuuWebAssemblyApp\obj\Debug\net6.0\refint\JoensuuWebAssemblyApp.dll
 C:\Users\Laure\Documents\School\C#\repos\JoensuuWebAssemblyApp\JoensuuWebAssemblyApp\obj\Debug\net6.0\JoensuuWebAssemblyApp.pdb
 C:\Users\Laure\Documents\School\C#\repos\JoensuuWebAssemblyApp\JoensuuWebAssemblyApp\obj\Debug\net6.0\ref\JoensuuWebAssemblyApp.dll
+C:\Users\Laure\Documents\School\C#\repos\JoensuuWebAssemblyApp\JoensuuWebAssemblyApp\obj\Debug\net6.0\scopedcss\Pages\Index.razor.rz.scp.css
+C:\Users\Laure\Documents\School\C#\repos\JoensuuWebAssemblyApp\JoensuuWebAssemblyApp\obj\Debug\net6.0\scopedcss\Components\Index\Weerkader.razor.rz.scp.css
+C:\Users\Laure\Documents\School\C#\repos\JoensuuWebAssemblyApp\JoensuuWebAssemblyApp\obj\Debug\net6.0\scopedcss\Components\Index\Optiekader.razor.rz.scp.css

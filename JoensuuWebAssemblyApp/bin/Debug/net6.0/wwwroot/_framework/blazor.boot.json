@@ -196,13 +196,13 @@
       "mscorlib.dll": "sha256-SboUbkX8s5RVQGtnN5Q67MBZW0I\/P3aeEMENJq8gv8M=",
       "netstandard.dll": "sha256-lZ8L5iiSghlvyt2ie2YdBYAtJbVa4mvpvBX3W9ihjLc=",
       "System.Private.CoreLib.dll": "sha256-jECkJy2Sjpl59QEL3nO3p8nwKGXvnJpXaKQF\/+MTw04=",
-      "JoensuuWebAssemblyApp.dll": "sha256-cgD20UFLs5agTa8lxkylnM5mzrAVInfwyXmCWFsJGrI="
+      "JoensuuWebAssemblyApp.dll": "sha256-\/QRt61P8yot9sMr7tAEKe44DiwUb\/aGgoeh5vDG8kt4="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "JoensuuWebAssemblyApp.pdb": "sha256-4uz+XuM8PDaoKYJXMLRODN2wZcYrlL8jtJxnw1nylyg="
+      "JoensuuWebAssemblyApp.pdb": "sha256-N+YOAzIgMWSxZDggl\/f5xLduqwIZJR4fRX6jizYmVYk="
     },
     "runtime": {
       "dotnet.6.0.10.rw699tw16b.js": "sha256-KtM3Wrooexmrt5NmqvZfWoDPtNIe6wZqLopR6ToqUPg=",
