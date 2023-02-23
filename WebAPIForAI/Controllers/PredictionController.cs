@@ -73,7 +73,7 @@ public class PredictionController : ControllerBase
 				fileName = uniqueFileName,
 				fileSize = img.Length,
 				score = predictionResult.Score,
-				label = predictionResult.PredictedLabel
+				label = predictionResult.PredictedLabel,
 			});
 		}
 		else

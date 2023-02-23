@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Forms;
 using System.Net.Http.Headers;
 using System.Net.Http.Json;
+using System.Text.Json;
 
 namespace JoensuuWebAssemblyApp.Components.TicketSubmission;
 
@@ -43,11 +44,19 @@ public partial class SelectPicture
 					//content.Headers.ContentType = new MediaTypeHeaderValue("multipart/form-data");
 
 					var response = await Http.PostAsync("/prediction", content);
-					Console.WriteLine("req send");
 					var results = await response.Content.ReadFromJsonAsync<List<ImageResult>>();
-					Console.WriteLine("res received");
-					Console.WriteLine(results);
-					ExternalMethod.Invoke("test");
+					var result = results.FirstOrDefault();
+
+					if (result != null)
+					{
+						var data = new
+						{
+							FileName = result.fileName,
+							FileSize = result.fileSize,
+							Label = result.label,
+						};
+						ExternalMethod.Invoke(data.Label);
+					}
 				}
 
 			}
