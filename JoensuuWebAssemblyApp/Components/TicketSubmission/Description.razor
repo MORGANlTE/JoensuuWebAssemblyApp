@@ -1,0 +1,17 @@
+﻿@using MudBlazor
+
+<div class="containerken">
+    <EditForm Model="@_model" OnValidSubmit="@OnValidSubmit">
+        <div class="descr">
+        <h5>Title</h5>
+        <InputText @bind-Value="_model.Naam" />
+
+        <h5>Description</h5>
+        <InputTextArea @bind-Value="_model.Description" />
+        </div>
+
+        <br/>
+        <button class="nextbtn" type="submit">NEXT</button>
+
+    </EditForm>
+</div>

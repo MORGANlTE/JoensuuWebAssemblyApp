@@ -109,6 +109,19 @@ p[b-x31w5qdolx] {
 .quality[b-x31w5qdolx] {
     font-size: 18px;
 }
+/* /Components/TicketSubmission/Description.razor.rz.scp.css */
+.nextbtn[b-krik1rki9t] {
+    border-radius: 15px;
+    background: rgb(128, 128, 128);
+    font-family: "Work sans", sans-serif;
+    padding: 10px 50px;
+    font-size: 20px;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 120px;
+    border: none;
+}
 /* /Components/TicketSubmission/SelectPicture.razor.rz.scp.css */
 .visualizer[b-wnhs8ml5fo] {
     max-width: 200px;
