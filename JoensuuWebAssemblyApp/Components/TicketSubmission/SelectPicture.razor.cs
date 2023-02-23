@@ -44,19 +44,9 @@ public partial class SelectPicture
 					//content.Headers.ContentType = new MediaTypeHeaderValue("multipart/form-data");
 
 					var response = await Http.PostAsync("/prediction", content);
-					var results = await response.Content.ReadFromJsonAsync<List<ImageResult>>();
-					var result = results.FirstOrDefault();
-
-					if (result != null)
-					{
-						var data = new
-						{
-							FileName = result.fileName,
-							FileSize = result.fileSize,
-							Label = result.label,
-						};
-						ExternalMethod.Invoke(data.Label);
-					}
+					var result = await response.Content.ReadFromJsonAsync<ImageLabel>();
+					ExternalMethod.Invoke(result.label);
+					/*ExternalMethod.Invoke(result.label);*/
 				}
 
 			}
@@ -74,12 +64,9 @@ public partial class SelectPicture
 
 	}
 
-	public class ImageResult
+	public class ImageLabel
 	{
-		public string fileName { get; set; }
-		public string fileSize { get; set; }
 		public string label { get; set; }
-
 	}
 
 	public static byte[] GetBytes(Stream stream)

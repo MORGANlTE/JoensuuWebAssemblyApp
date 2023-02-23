@@ -16,7 +16,8 @@ public partial class TicketSubmission
 	
 	public void AIDataReceived(string probableName)
 	{
-		Console.WriteLine("data received! " + probableName);
+		ProbableName = probableName;
+		Console.WriteLine("NOPOO");
 	}
 
 	public void ChangeSelected(int nr)
