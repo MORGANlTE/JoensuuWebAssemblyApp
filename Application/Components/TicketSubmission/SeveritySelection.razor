@@ -1,0 +1,13 @@
+﻿@using MudBlazor
+<div class="severity">
+    <div @onclick="@(() => ClickHandler(1))" class="circle default @(Selected==1?"sel" : "")">
+        <p>😐</p>
+    </div>
+    <div @onclick="@(() => ClickHandler(2))" class="circle severe @(Selected==2?"sel" : "")">
+        <p>☹️</p>
+    </div>
+    <div @onclick="@(() => ClickHandler(3))" class="circle dangerous @(Selected==3?"sel" : "")">
+        <p>⚠️</p>
+    </div>
+</div>
+

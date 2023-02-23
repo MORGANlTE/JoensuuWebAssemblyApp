@@ -1,0 +1,28 @@
+﻿.visualizer {
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.uploadzone {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.uploader {
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+}
+
+.containerken {
+    width: 230px;
+    height: 230px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    border-radius: 30px;
+    border: solid 3px white;
+}

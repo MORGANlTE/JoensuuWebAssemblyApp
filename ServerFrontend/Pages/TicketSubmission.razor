@@ -1,0 +1,34 @@
+﻿@page "/ticket/new"
+@using ServerFrontend.Components.Index
+@using ServerFrontend.Components.TicketSubmission
+
+@using MudBlazor
+
+<PageTitle>Ticket</PageTitle>
+<div class="sidebar">
+    <NavMenu />
+</div>
+<div class="uploadzone">
+    @if(step == 1)
+    {
+        <SelectPicture ExternalMethod="AIDataReceived"/>
+        <br/>
+        <SeveritySelection ExternalMethod="ChangeSelected"/>
+        <br/>
+        <button class="nextbtn" @onclick="() => ChangeStep(2)">NEXT</button>
+    } else if(step == 2){
+
+    }
+
+    <div class="stepHolder">
+        @for (int i = 0; step - i > 0; i++)
+        {
+                <MudIcon Icon="@Icons.Material.Filled.RadioButtonChecked" Title="Step" />
+        }
+        @for(int i = 0; i < maxSteps - step; i++){
+            <MudIcon Icon="@Icons.Material.Filled.RadioButtonUnchecked" Title="Step" />
+        }
+    </div>
+
+</div>
+

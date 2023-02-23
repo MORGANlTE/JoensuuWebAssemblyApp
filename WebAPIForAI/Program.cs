@@ -15,9 +15,22 @@ builder.Services.AddSwaggerGen(c =>
     c.SwaggerDoc("v1", new OpenApiInfo { Title = "My API", Description = "Docs for my API", Version = "v1" });
 });
 builder.Services.AddScoped<PredictionController>();
+
+builder.Services.AddCors(options =>
+{
+	options.AddPolicy("AllowAll", builder =>
+	{
+		builder.AllowAnyOrigin()
+			   .AllowAnyHeader()
+			   .AllowAnyMethod();
+	});
+});
+
 var app = builder.Build();
 
 app.UseSwagger();
+
+
 
 app.UseSwaggerUI(c =>
 {
@@ -27,6 +40,6 @@ app.UseSwaggerUI(c =>
 
 app.MapGet("/", () => "ML.NET Model Builder API is running.");
 app.MapControllers();
-
+app.UseCors("AllowAll");
 // Run app
 app.Run();

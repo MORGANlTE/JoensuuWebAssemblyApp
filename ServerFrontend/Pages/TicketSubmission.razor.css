@@ -1,0 +1,39 @@
+﻿.visualizer {
+    max-width: 200px;
+    max-height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+.uploadzone{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.uploader {
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+}
+
+.stepHolder{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    row-gap: 10px;
+    width: 100px;
+    margin: 20px auto;
+}
+
+.nextbtn {
+    border-radius: 15px;
+    background: rgb(128, 128, 128);
+    font-family: "Work sans", sans-serif;
+    padding: 10px 50px;
+    font-size: 20px;
+    color: white;
+    margin: 0 auto;
+    border: none;
+}

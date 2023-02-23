@@ -1,0 +1,56 @@
+﻿.darkblue {
+    background: #015aaa;
+    padding: 20px 0 10px 0;
+    display: grid;
+    grid-template-rows: auto auto;
+    grid-template-columns: auto auto auto;
+    justify-content:space-around;
+    align-items: center;
+}
+
+.box {
+    background: #c3f3ff;
+    border-radius: 15px;
+    width: 130px;
+    height: 130px;
+    overflow:hidden;
+    display: flex;
+    justify-content:center;
+    flex-direction: column;
+}
+
+.squareken {
+    width: 100px;
+    margin: 0 auto;
+}
+
+.description {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: fit-content;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    height: 45px;
+}
+
+.smaller{
+    width: 78px;
+}
+
+.lijst {
+    width: 150px;
+    margin-bottom: 5px;
+    font-family: "Work sans", sans-serif;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.lijst:hover{
+    background: rgba(255, 255, 255, 0.3);
+    cursor: pointer;
+}
+a {
+    text-decoration: underline 0px;
+}
